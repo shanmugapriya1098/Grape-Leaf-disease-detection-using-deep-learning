@@ -15,7 +15,7 @@ This project focuses on detecting diseases in grape leaves using deep learning t
 1. Download [leafdisease.ipynb](leafdisease.ipynb)
 2. Download the dataset
 3. To test the model on new images:upload in [Google colab](https://share.google/mG3y0iMbwwJcKkltk)
-4. upload the dataset in google drive
+4. Upload the dataset in google drive
 5. Mount the google drive
 6. Run the cells one by one
 
