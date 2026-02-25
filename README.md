@@ -12,18 +12,6 @@ This project focuses on detecting diseases in grape leaves using deep learning t
 
 ## ⚙️ Installation
 
-1. Clone the repository:
-'''bash
-git clone https://github.com/shanmugapriya1098/Grape-Leaf-disease-detection-using-deep-learning.git
-cd Grape-Leaf-disease-detection-using-deep-learning
-'''bash
-2. Install dependencies:
-'''bash
-pip install -r requirements.txt
-'''bash
-
-## 🚀 Usage
-
 1. Download [leafdisease.ipynb](leafdisease.ipynb)
 2. Download the dataset
 3. To test the model on new images:upload in [Google colab](https://share.google/mG3y0iMbwwJcKkltk)
